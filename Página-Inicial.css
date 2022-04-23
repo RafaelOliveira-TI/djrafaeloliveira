@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/11557.jpg");
+  background-image: url("images/fd67de43ef782a7d2de29ca0576ee9c1.jpg");
   background-position: 50% 50%;
 }
 
@@ -374,13 +374,21 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1395px;
+    min-height: 1629px;
   }
 
   .u-section-1 .u-shape-1 {
     margin-right: initial;
     margin-left: initial;
     width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -47px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 59px;
   }
 
   .u-section-1 .u-repeater-1 {
